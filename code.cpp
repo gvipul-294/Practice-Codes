@@ -27,6 +27,6 @@ int main() {
 	        ans=temp_ans;
 	    }
 	}
-	cout<<ans<<endl;
+	cout<<ans<<endl;     // So code is working fine as such but since input is of the order 10^6 thats why it has to be optimised to O(n)
 	return 0;
 }
