@@ -5,6 +5,6 @@
       code.cpp
       
    
-   Javascipt Essentials_ Workshop
+   Javascript Essentials_ Workshop
    
-      Javascipt_promises.js
+      Javascript_promises.js
