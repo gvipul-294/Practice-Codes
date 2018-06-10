@@ -5,7 +5,4 @@
       code.cpp
       
    
-   Javascript Essentials_ Workshop
    
-      Javascript_promises.js
-      https://codepen.io/gvipul213/pen/LmwZmg
