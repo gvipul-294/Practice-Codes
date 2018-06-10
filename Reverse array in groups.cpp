@@ -5,6 +5,11 @@ Given an array, reverse every sub-array formed by consecutive k elements.
 
 */
 
+/*
+Just added temp array to reverse for understanding, otherwise no need of that and thus can easily make O(1) of auxilliary space.
+*/
+
+
 //CODE
 
 #include <iostream>
