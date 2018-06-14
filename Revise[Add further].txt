@@ -1,0 +1,8 @@
+
+Arrays
+
+https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater-than-it/
+
+https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/
+
+REVIEW (logn approach) https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/
