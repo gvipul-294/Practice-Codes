@@ -6,3 +6,13 @@ https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are
 https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/
 
 REVIEW (logn approach) https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/
+
+Done on trip [Thoroughly Revise]:
+ 
+-> Must Do Coding Questions List -> 
+
+        1) Arrays -> Que 19-23 _____ Implement
+        2) Strings -> Que 1-3 [easy]
+
+See Que 4
+
