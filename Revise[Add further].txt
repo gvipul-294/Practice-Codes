@@ -20,3 +20,8 @@ Done on trip [Thoroughly Revise]:
 
 Good Question: [Practice]   ->   https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/
 Practice [Revise] ->   https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0
+
+Read:-https://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/
+HadProb[So See Again]: https://www.geeksforgeeks.org/dynamic-programming-set-28-minimum-insertions-to-form-a-palindrome/
+                       https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
+                       
