@@ -26,3 +26,5 @@ HadProb[So See Again]: https://www.geeksforgeeks.org/dynamic-programming-set-28-
                        https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
                        https://www.geeksforgeeks.org/flattening-a-linked-list/   
                     
+
+Practiced on Register but not coded:- https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/
