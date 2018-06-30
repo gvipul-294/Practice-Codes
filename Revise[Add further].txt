@@ -28,3 +28,7 @@ HadProb[So See Again]: https://www.geeksforgeeks.org/dynamic-programming-set-28-
                     
 
 Practiced on Register but not coded:- https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/
+HadDiff:- https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/
+
+To do:- https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
+        https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
